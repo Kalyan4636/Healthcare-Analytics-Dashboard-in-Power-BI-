@@ -38,16 +38,24 @@ The dashboard is built with a focus on clean UX/UI, meaningful KPIs, and dynamic
 
 ## 🖼️ Dashboard Preview
 
-```
-<img width="453" height="395" alt="Screenshot 2026-09-02 104636" src="https://github.com/user-attachments/assets/a4eaefe8-580b-496f-b92e-510d41c17550" />
-``` 
-``` 
-<img width="454" height="391" alt="Screenshot 2026-09-02 104617" src="https://github.com/user-attachments/assets/fff1bf5d-9f4c-40f6-9e5d-3658101a2c13" />
+##  OVERVIEW 
+
+<img width="454" height="391" alt="Screenshot 2026-09-02 104617" src="https://github.com/user-attachments/assets/9981a771-4c47-4fab-93ee-34976b6bd884" />
+
+## DASHBOARD 
+
+<img width="453" height="395" alt="Screenshot 2026-09-02 104636" src="https://github.com/user-attachments/assets/5e1a4b29-52e6-4897-aa2f-34b259a9c6d6" />
+
+
 
 
 ``` 
 
----
+
+
+
+
+
 
 ## 🗂️ Dataset
 
